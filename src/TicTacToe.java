@@ -4,4 +4,4 @@ public void startGame() {
 }
 public void displayMessage() {
     System.out.println("Welcome to TicTacToe!");
-}
+}"// TODO: Add colored output for X and O " 
